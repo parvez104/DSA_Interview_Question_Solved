@@ -1,4 +1,4 @@
-#🟢🔴🔵 DSA Interview Question Solved :
+# DSA Interview Question Solved : 👊
    
 ### Update 🕦 : Daily 
 
